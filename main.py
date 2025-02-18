@@ -87,5 +87,3 @@ print(get_balance())
 #update_price_id_list = []
 #new_price = 123
 #update_price(token, item_ids=update_price_id_list, new_price=new_price)
-
-
